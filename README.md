@@ -1,5 +1,5 @@
 # Nine
 
-A fun project built  for the purposr of home automation.
+A fun project built  for the purpose of home automation.
 
 More details to come...
